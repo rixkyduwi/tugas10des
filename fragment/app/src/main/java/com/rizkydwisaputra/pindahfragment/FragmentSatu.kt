@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.fragment_satu.*
 
-
 /**
  * A simple [Fragment] subclass.
  * Use the [FragmentSatu.newInstance] factory method to
