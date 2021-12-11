@@ -2,7 +2,8 @@
 buildscript {
     ext.kotlin_version = "1.4.21"
     ext.tflite = "0.1.0-rc1"
-    ext.camerax_version = "1.0.0-alpha01"
+    ext.camerax_version = "1.0.0-beta07"
+    ext.camerax_view_version = "1.0.0-alpha14"
     repositories {
         google()
         mavenCentral()
